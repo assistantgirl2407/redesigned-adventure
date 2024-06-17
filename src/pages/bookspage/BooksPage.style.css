@@ -1,0 +1,12 @@
+.search-container{
+    width: 40%;
+    margin:auto;
+    padding: 5%;
+}
+
+.search-container h2{
+    text-align: center;
+    padding-bottom : 1rem ;
+    color: rgb(38, 75, 73);
+
+}

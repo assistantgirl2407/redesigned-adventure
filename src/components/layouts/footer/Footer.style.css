@@ -1,0 +1,53 @@
+.footer-container{
+      background-color: #222;
+      padding: 5rem 0;
+
+}
+.footer-container h2{
+color: #fff;
+}
+
+.footer-container p{
+    color: #fff;
+    padding-top: 2rem;
+    font-size: 0.8rem;
+}
+
+
+.footer-form{
+    padding-top: 1rem;
+    width: 50%;
+}
+
+.form-group{
+    padding: 1rem 0;   
+}
+.form-lable{
+    display: inline-block;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.form-input{
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    outline: none;
+}
+
+.form-submit{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(54, 129, 126);
+    padding: 0.8rem 2rem ;
+    border-radius:3px;
+    transition: 0.3s;
+}
+
+.form-submit:hover{
+    background-color:rgb(27, 203, 194);
+    color: black;
+   
+}
